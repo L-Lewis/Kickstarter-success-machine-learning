@@ -6,6 +6,8 @@ A huge variety of factors contribute to the success or failure of a projectâ€Šâ€
 
 My blog post about this project and its results was published in [Towards Data Science](https://towardsdatascience.com/using-machine-learning-to-predict-kickstarter-success-e371ab56a743?source=friends_link&sk=9d097ddca02077b38e09a59736e39ff8).
 
+![](Kickstarter_prediction.png)
+![](kickstarter-logo-color.png)
 
 # Final model evaluation and interpretation
 Each model was able to achieve an accuracy of 73-75% after parameter tuning. The final chosen model is a tuned XGBoost model, which had the highest test set weighted average F1 score of 0.747.
