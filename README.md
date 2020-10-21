@@ -4,7 +4,7 @@ In recent years, the range of funding options for projects created by individual
 
 A huge variety of factors contribute to the success or failure of a project — in general, and also on Kickstarter. Some of these are able to be quantified or categorised, which allows for the construction of a model to attempt to predict whether a project will succeed or not. The aim of this project is to construct such a model and also to analyse Kickstarter project data more generally, in order to help potential project creators assess whether or not Kickstarter is a good funding option for them, and what their chances of success are.
 
-My blog post about this project and its results was published in [Towards Data Science](https://towardsdatascience.com/using-machine-learning-to-predict-kickstarter-success-e371ab56a743?source=friends_link&sk=9d097ddca02077b38e09a59736e39ff8).
+My blog post about this project and its results was published here in Towards Data Science: [Using machine learning to predict Kickstarter success](https://towardsdatascience.com/using-machine-learning-to-predict-kickstarter-success-e371ab56a743?source=friends_link&sk=9d097ddca02077b38e09a59736e39ff8).
 
 ![](Kickstarter_prediction.png)
 ![](kickstarter-logo-color.png)
